@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-source-ramblers",
+  "version": "1.0.0",
+  "description": "A Gatsby plugin to extract group walks from the Ramblers GB walks feed",
+  "keywords": ["gatsby", "gatsby-plugin", "ramblers", "group walks feed"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Bourne",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "query-string": "^6.10.1"
+  }
+}
