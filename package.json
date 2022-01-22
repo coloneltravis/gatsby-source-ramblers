@@ -11,7 +11,7 @@
   "homepage": "https://github.com/coloneltravis/gatsby-source-ramblers",
   "license": "GPL",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "query-string": "^6.10.1"
   },
   "repository": {
